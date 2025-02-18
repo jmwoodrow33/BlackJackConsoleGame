@@ -57,8 +57,7 @@ This Java-based BlackJack game simulates a multiplayer BlackJack experience. It 
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss changes.
-
+This project isn't currently open for contributions.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
